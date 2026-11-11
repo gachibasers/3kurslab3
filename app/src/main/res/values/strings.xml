@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sea Battle</string>
+    <string name="title_game">Sea Battle — You vs Computer</string>
+    <string name="btn_new_game">New Game</string>
+    <string name="btn_shoot">Shoot</string>
+    <string name="label_your_board">Your board</string>
+    <string name="label_enemy_board">Enemy board</string>
+    <string name="status_turn">Your turn</string>
+    <string name="status_enemy_turn">Computer turn</string>
+    <string name="msg_hit">Hit!</string>
+    <string name="msg_miss">Miss.</string>
+    <string name="msg_sunk">You sank a ship!</string>
+    <string name="msg_win">You won!</string>
+    <string name="msg_lose">Computer won.</string>
+    <string name="msg_invalid_cell">Choose an empty cell.</string>
+    <string name="msg_wait">Wait for your turn.</string>
+    <string name="cell_water">~</string>
+    <string name="cell_ship">█</string>
+    <string name="cell_hit">X</string>
+    <string name="cell_miss">•</string>
+</resources>

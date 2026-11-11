@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Морський бій</string>
+    <string name="title_game">Морський бій — Ви проти комп\'ютера</string>
+    <string name="btn_new_game">Нова гра</string>
+    <string name="btn_shoot">Встрілити</string>
+    <string name="label_your_board">Ваша дошка</string>
+    <string name="label_enemy_board">Дошка суперника</string>
+    <string name="status_turn">Ваш хід</string>
+    <string name="status_enemy_turn">Хід комп\'ютера</string>
+    <string name="msg_hit">Попадання!</string>
+    <string name="msg_miss">Мимо.</string>
+    <string name="msg_sunk">Ви потопили корабель!</string>
+    <string name="msg_win">Ви виграли!</string>
+    <string name="msg_lose">Комп\'ютер виграв.</string>
+    <string name="msg_invalid_cell">Оберіть порожню комірку.</string>
+    <string name="msg_wait">Почекайте свій хід.</string>
+    <string name="cell_water">~</string>
+    <string name="cell_ship">█</string>
+    <string name="cell_hit">X</string>
+    <string name="cell_miss">•</string>
+</resources>
